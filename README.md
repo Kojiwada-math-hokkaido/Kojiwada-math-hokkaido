@@ -25,10 +25,10 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/github/followers//Kojiwada-math-hokkaido?label=follow&logo=github&style=flat" />
   </a> -->
   <a href="https://qiita.com/kojiwada">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Kojiwada-math-hokkaido/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/kojiwada/posts.svg" />
   </a>
   <a href="https://qiita.com/kojiwada">
-    <img height="20" src="https://qiita-adge.apiapi.app/s/Kojiwada-math-hokkaido/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/kojiwada/contributions.svg" />
   </a>
 <!--   <a href="https://zenn.dev/keichan_15">
     <img height="20" src="https://badgen.org/img/zenn/keichan_15/articles?style=plastic" />
