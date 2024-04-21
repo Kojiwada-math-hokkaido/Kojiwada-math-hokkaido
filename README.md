@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome my github! 👋
 
 <!--
 **Kojiwada-math-hokkaido/Kojiwada-math-hokkaido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
