@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://raw.githubusercontent.com/Kojiwada-math-hokkaido/github-contribution-grid-snake.svg)
+
 <p align="left">
   <a href="https://github.com/Kojiwada-math-hokkaido">
     <img height="20" src="https://komarev.com/ghpvc/?username=Kojiwada-math-hokkaido" />
