@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://raw.githubusercontent.com/Kojiwada-math-hokkaido/Kojiwada-math-hokkaido/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Kojiwada-math-hokkaido/Kojiwada-math-hokkaido/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation">
 
 <p align="left">
   <a href="https://github.com/Kojiwada-math-hokkaido">
